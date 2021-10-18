@@ -1,7 +1,5 @@
 # Maven Resource
-
-[![CI Builds](https://ci.nulldriver.com/api/v1/teams/resources/pipelines/maven-resource/jobs/test/badge)](https://ci.nulldriver.com/teams/resources/pipelines/maven-resource)
-[![Docker Pulls](https://img.shields.io/docker/pulls/nulldriver/maven-resource.svg)](https://hub.docker.com/r/nulldriver/maven-resource/)
+[![Docker](https://github.com/linkyard/maven-resource/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/linkyard/maven-resource/actions/workflows/docker-publish.yml)
 
 Deploys and retrieve artifacts from a Maven Repository Manager.
 
